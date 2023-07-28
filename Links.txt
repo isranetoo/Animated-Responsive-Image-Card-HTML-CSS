@@ -1,0 +1,15 @@
+//FONTS//
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+
+//IMG//
+
+
+url
+https://i.postimg.cc/2jGwjcv8/img-01.png
+
+https://i.postimg.cc/W3jGTg1k/img-02.png
+
+https://i.postimg.cc/5y28FJv9/img-03.png
